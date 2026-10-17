@@ -1,0 +1,24 @@
+{
+  "name": "codeapex-doomsday-protocol",
+  "version": "3.0.0",
+  "description": "CODEAPEX 3.0: Doomsday Protocol - Cinematic Superhero Hackathon Experience & Mission Control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "hackathon",
+    "codeapex",
+    "cinematic",
+    "superhero",
+    "doomsday-protocol",
+    "vit-pune"
+  ],
+  "author": "AISF - VIT Pune",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
