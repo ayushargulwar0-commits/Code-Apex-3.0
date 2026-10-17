@@ -1,0 +1,129 @@
+{
+  "competition": {
+    "round1": {
+      "id": "round1",
+      "name": "ROUND 01",
+      "status": "COMPLETE",
+      "statusText": "COMPLETE",
+      "timeline": "10 - 11 OCTOBER 2026",
+      "format": "Online Evaluation",
+      "description": "Initial idea screening & architecture validation across participating collegiate teams.",
+      "completedAt": "2026-10-11T23:59:59+05:30"
+    },
+    "round2": {
+      "id": "round2",
+      "name": "ROUND 02",
+      "status": "STANDBY",
+      "statusText": "IN PROGRESS",
+      "timeline": "15 - 18 OCTOBER 2026",
+      "format": "Online Evaluation",
+      "description": "Deep-dive technical evaluation, prototype proof-of-concept, and mentorship review.",
+      "startedAt": "2026-10-15T00:00:00+05:30"
+    },
+    "grandFinale": {
+      "id": "grandFinale",
+      "name": "GRAND FINALE",
+      "status": "STANDBY",
+      "statusText": "UPCOMING",
+      "timeline": "24 OCTOBER 2026",
+      "format": "24 Hours • Offline (VIT Bibwewadi Campus, Pune)",
+      "description": "24-Hour continuous onsite hackathon war-room. Assemble, build, and survive the protocol."
+    }
+  },
+  "hodTimer": {
+    "status": "STANDBY",
+    "isActive": false,
+    "isCompleted": false,
+    "durationMs": 86400000,
+    "activatedAt": null,
+    "activatedBy": null,
+    "expiresAt": null,
+    "lastAction": "RESET",
+    "lastActionTimestamp": "2026-10-17T12:54:09.721Z"
+  },
+  "eventCountdown": {
+    "targetDate": "2026-10-26T00:00:00+05:30",
+    "title": "CODEAPEX 3.0 PROTOCOL LAUNCH",
+    "posterGrandFinaleDate": "2026-10-24T09:00:00+05:30"
+  },
+  "auditLog": [
+    {
+      "timestamp": "2026-10-17T12:54:09.721Z",
+      "event": "HOD_PROTOCOL_RESET",
+      "actor": "Authorized Administrator",
+      "details": "24-Hour timer reset to STANDBY state."
+    },
+    {
+      "timestamp": "2026-10-17T12:53:59.766Z",
+      "event": "HOD_PROTOCOL_ACTIVATED",
+      "actor": "Dr. Nilesh Sable, HOD CSE(AI)",
+      "details": "Official 24-Hour Hackathon Timer started. Termination at 2026-10-18T12:53:59.766Z"
+    },
+    {
+      "timestamp": "2026-10-17T12:53:55.610Z",
+      "event": "HOD_PROTOCOL_RESET",
+      "actor": "Authorized Administrator",
+      "details": "24-Hour timer reset to STANDBY state."
+    },
+    {
+      "timestamp": "2026-10-17T12:51:55.868Z",
+      "event": "HOD_PROTOCOL_RESET",
+      "actor": "Authorized Administrator",
+      "details": "24-Hour timer reset to STANDBY state."
+    },
+    {
+      "timestamp": "2026-10-17T12:51:47.690Z",
+      "event": "HOD_PROTOCOL_ACTIVATED",
+      "actor": "Dr. Nilesh Sable, HOD CSE(AI)",
+      "details": "Official 24-Hour Hackathon Timer started. Termination at 2026-10-18T12:51:47.690Z"
+    },
+    {
+      "timestamp": "2026-10-17T12:51:28.851Z",
+      "event": "HOD_PROTOCOL_RESET",
+      "actor": "Authorized Administrator",
+      "details": "24-Hour timer reset to STANDBY state."
+    },
+    {
+      "timestamp": "2026-10-17T12:32:48.578Z",
+      "event": "COMPETITION_STATUS_UPDATED",
+      "actor": "AISF Organizing Core",
+      "details": "Updated round2 to status: STANDBY"
+    },
+    {
+      "timestamp": "2026-10-17T12:31:52.946Z",
+      "event": "COMPETITION_STATUS_UPDATED",
+      "actor": "AISF Organizing Core",
+      "details": "Updated round2 to status: STANDBY"
+    },
+    {
+      "timestamp": "2026-10-17T12:31:38.453Z",
+      "event": "HOD_PROTOCOL_ACTIVATED",
+      "actor": "Dr. Nilesh Sable, HOD CSE(AI)",
+      "details": "Official 24-Hour Hackathon Timer started. Termination at 2026-10-18T12:31:38.453Z"
+    },
+    {
+      "timestamp": "2026-10-17T11:58:40.509Z",
+      "event": "HOD_PROTOCOL_RESET",
+      "actor": "Authorized Administrator",
+      "details": "24-Hour timer reset to STANDBY state."
+    },
+    {
+      "timestamp": "2026-10-17T11:58:40.504Z",
+      "event": "COMPETITION_STATUS_UPDATED",
+      "actor": "AISF Organizing Core",
+      "details": "Updated round2 to status: IN PROGRESS"
+    },
+    {
+      "timestamp": "2026-10-17T11:58:40.494Z",
+      "event": "HOD_PROTOCOL_ACTIVATED",
+      "actor": "Dr. Nilesh Sable, HOD CSE(AI)",
+      "details": "Official 24-Hour Hackathon Timer started. Termination at 2026-10-18T11:58:40.494Z"
+    },
+    {
+      "timestamp": "2026-10-17T17:13:14+05:30",
+      "event": "SYSTEM_INITIALIZED",
+      "actor": "AISF System Core",
+      "details": "CODEAPEX 3.0 Doomsday Protocol Initialized"
+    }
+  ]
+}
